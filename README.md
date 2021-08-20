@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MACHARODRIGO
 - 👀 I’m interested in citrus diseases 
 - 🌱 I’m currently learning python and R language to process massive data
-- 💞️ I’m looking to collaborate on searching potential biomarkers of HLB disease
+- 💞️ I’m looking for collaborate searching of potential biomarkers of HLB disease
 - 📫 How to reach me machado.rodrigo@inta.gob.ar
 
 <!---
