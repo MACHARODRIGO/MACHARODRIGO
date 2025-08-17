@@ -23,7 +23,8 @@
 💡 Train your bioinformatics skills with exercises that go from “warm-up” to “heavy training” in sequence analysis, data processing, and genomics.
 
 ### 🔰 Beginner
-1. **[bioinfo-dataset-exploration](https://github.com/MACHARODRIGO/bioinfo-dataset-exploration)** – Load and explore a biological dataset with `pandas`.
+1. **[Dataset exploration](https://github.com/MACHARODRIGO/bioinfo-dataset-exploration)** – Load and explore a biological dataset with `pandas`.
+2. **[DNA Sequences QC](https://github.com/MACHARODRIGO/02-dna-qc-genomegym-beginner)** – Perform **data quality checks** (duplicate IDs, empty values, invalid characters) and clean DNA sequences using `pandas` and `regex`. Produces a curated file ready for downstream analysis.
 
 ### ⚙️ Intermediate
 *(Coming soon)*
