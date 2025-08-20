@@ -25,7 +25,7 @@
 ### 🔰 Beginner
 1. **[Dataset exploration](https://github.com/MACHARODRIGO/bioinfo-dataset-exploration)** – Load and explore a biological dataset with `pandas`.
 2. **[DNA Sequences QC](https://github.com/MACHARODRIGO/02-dna-qc-genomegym-beginner)** – Perform **data quality checks** (duplicate IDs, empty values, invalid characters) and clean DNA sequences using `pandas` and `regex`. Produces a curated file ready for downstream analysis.
-3. **[GC Scanner](https://github.com/MACHARODRIGO/03-GC-Scanner-FASTA-composition-profiling-genomegym-beginner)** – A small, reproducible exercise that merges multiple FASTA files into a single multifasta, computes nucleotide counts and GC content, exports tidy CSV tables, and draws quick QC plots for length and GC percentage.
+3. **[GC Scanner](https://github.com/MACHARODRIGO/03-GC-Scanner-FASTA-composition-profiling-genomegym-beginner)** –A small, reproducible exercise that uses `Biopython` to handle and process biological sequences in FASTA format, `pandas` to organize the data into tables, and `matplotlib` to create summary plots. It combines multiple FASTA files, computes nucleotide counts and GC content, and exports tidy CSV tables and QC plots.
 
 ### ⚙️ Intermediate
 *(Coming soon)*
