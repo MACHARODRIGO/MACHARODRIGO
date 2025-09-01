@@ -32,7 +32,15 @@
 *(Coming soon)*
 
 ### 🚀 Advanced
-*(Coming soon)*
+1. **[tRNASec Structural & Sequence Exploration](https://github.com/MACHARODRIGO/tRNASec-Study-Project)** –  
+   A complete research workflow exploring the **Selenocysteinyl tRNA (tRNASec)** family.  
+   - 📂 Curated datasets from **RNAcentral**, enriched with structural/functional annotations (Rfam, MODOMICS, GtRNAdb).  
+   - 🔬 Bioinformatics analysis: multiple sequence alignment, phylogenetic trees, and secondary structure predictions with **ViennaRNA** and related tools.  
+   - 🧩 Structural exploration: comparative analysis of canonical vs. non-canonical nucleotides, including 2D/3D motifs.  
+   - 🤖 Machine learning: clustering and baseline classifiers (logistic regression, random forest, MLP) on sequence/structural features.  
+   - 📊 Reproducible **Jupyter Notebooks** and modular **Python scripts**, with clear documentation and results.  
+
+*(Coming soon – more advanced challenges!)*
 
 ---
 💬 Do you have an idea for a challenge? Open an *issue* or reach out!
