@@ -27,6 +27,7 @@
 2. **[DNA Sequences QC](https://github.com/MACHARODRIGO/02-dna-qc-genomegym-beginner)** – Perform **data quality checks** (duplicate IDs, empty values, invalid characters) and clean DNA sequences using `pandas` and `regex`. Produces a curated file ready for downstream analysis.
 3. **[GC Scanner](https://github.com/MACHARODRIGO/03-GC-Scanner-FASTA-composition-profiling-genomegym-beginner)** – A small, reproducible exercise that uses `Biopython` to handle and process biological sequences in FASTA format, `pandas` to organize the data into tables, and `matplotlib` to create summary plots. It combines multiple FASTA files, computes nucleotide counts and GC content, and exports tidy CSV tables and QC plots.
 4. **[Protein-Ligand Analysis](https://github.com/MACHARODRIGO/04-protein-ligand-genomegym-beginner)** – Learn how to load proteins from the Protein Data Bank using `gemmi`, represent ligands from SMILES with `RDKit`, and compute basic properties (molecular formula, molecular weight). Includes a Jupyter notebook with step-by-step examples.
+5. **[Transcript Metadata Finder](https://github.com/MACHARODRIGO/05-Transcript-Metadata-Finder-genomegym-beginner)** – Retrieve UniProt functional and structural metadata for transcript IDs using the REST API. Parses AC, GO, KEGG, Pfam, PROSITE, EC, and PDB fields and merges them into a tidy annotation table. Originally based on web scraping, now updated to use UniProt’s modern API.
 
 ### ⚙️ Intermediate
 *(Coming soon)*
