@@ -55,7 +55,7 @@
 ### ⚡ Featured Project: The Master Plan Architecture
 A self-engineered, data-driven Full-Stack ecosystem designed to master enterprise-level software development, state-machine logics, and hardware-software integration over a multi-year horizon.
 
-1. *    **[Agenda App](https://github.com/MACHARODRIGO/Agenda-App)** – A custom-built, local time-management framework featuring programmatic dependency validation.
+1. *    **[Agenda App](https://github.com/MACHARODRIGO/Agenda-for-dummies)** – A custom-built, local time-management framework featuring programmatic dependency validation.
          * **Backend & Logic:** Engineered with **FastAPI (Python)**, enforcing clean architecture principles and asynchronous request handling.
          * **Data Layer:** Powered by a relational **MySQL** database, implementing an event-driven logger that records daily productivity metrics with relational timestamps.
          * **Frontend & Interactivity:** Built from the ground up using **HTML5** and **CSS3 (Flexbox & Grid)** for responsive layout control, coupled with **JavaScript** to enforce strict client-side business rules (gating system for daily habits).
