@@ -46,6 +46,22 @@
 ---
 💬 Do you have an idea for a challenge? Open an *issue* or reach out!
 
+---
+
+## 💻 Beyond Genomics: Software Engineering & Infrastructure 🛠️
+
+*Because bioinformatics isn't just about parsing FASTQ files or running pre-made pipelines—it's about building scalable, secure, and production-ready infrastructure from scratch.*
+
+### ⚡ Featured Project: The Master Plan Architecture
+A self-engineered, data-driven Full-Stack ecosystem designed to master enterprise-level software development, state-machine logics, and hardware-software integration over a multi-year horizon.
+
+1. *    **[Agenda App](https://github.com/MACHARODRIGO/Agenda-App)** – A custom-built, local time-management framework featuring programmatic dependency validation.
+         * **Backend & Logic:** Engineered with **FastAPI (Python)**, enforcing clean architecture principles and asynchronous request handling.
+         * **Data Layer:** Powered by a relational **MySQL** database, implementing an event-driven logger that records daily productivity metrics with relational timestamps.
+         * **Frontend & Interactivity:** Built from the ground up using **HTML5** and **CSS3 (Flexbox & Grid)** for responsive layout control, coupled with **JavaScript** to enforce strict client-side business rules (gating system for daily habits).
+         * **Analytics Loop:** Integrates a modular pipeline where database logs are exported to CSV and statistically evaluated using **R and Python** to generate optimization insights.
+   
+
 <!---
 MACHARODRIGO/MACHARODRIGO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
